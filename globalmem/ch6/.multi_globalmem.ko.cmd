@@ -1,1 +1,0 @@
-cmd_/mnt/hgfs/LDM/kernel/globalmem/ch6/multi_globalmem.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/LDM/kernel/globalmem/ch6/multi_globalmem.ko /mnt/hgfs/LDM/kernel/globalmem/ch6/multi_globalmem.o /mnt/hgfs/LDM/kernel/globalmem/ch6/multi_globalmem.mod.o ;  true
